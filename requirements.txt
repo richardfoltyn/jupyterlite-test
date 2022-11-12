@@ -13,8 +13,8 @@ jupyterlab_miami_nights
 jupyterlite==0.1.0b14
 jupyterlite-p5-kernel==0.1.0a12
 plotly>=5,<6
-pyopenssl
-cryptography
+pyopenssl==22.1.*
+cryptography>=38.0,<39
 theme-darcula
 yfinance
 pandas-datareader
